@@ -1,6 +1,6 @@
 ---
 title: "Comparing Federated Gradient Descent and Stochastic Gradient Descent for Modelling Housing Value Prediction"
-excerpt: "Project paper prepared for CS-E4740 - Federated Learning course. <br/><img src='/images/output_clus.jpg' width='1000px' height='auto'>"
+excerpt: "Project paper prepared for CS-E4740 - Federated Learning course. <br/><img src='/images/output_clus.png' width='1000px' height='auto'>"
 collection: portfolio
 ---
 
