@@ -11,7 +11,8 @@ This work presents a distributed system architecture that leverages the asynchro
 
 Below is a video demonstrating our work:
 
-[![Real-time Demo](https://img.youtube.com/vi/i7bYXnRy8Vc/0.jpg)](https://www.youtube.com/watch?v=i7bYXnRy8Vc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i7bYXnRy8Vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Images
 
