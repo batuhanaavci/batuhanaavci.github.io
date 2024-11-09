@@ -1,6 +1,6 @@
 ---
 title: "Recognizing and Tracking Person of Interest: A Real-Time Efficient Deep Learning based Method for Quadcopters"
-excerpt: "Participated in MATLAB and Simulink Challenge Projects program. Extended to a conference paper. <br/><img src='/images/drone.jpg' width='auto' height='800px'>"
+excerpt: "Participated in MATLAB and Simulink Challenge Projects program. Extended to a conference paper. <br/><img src='/images/drone2.jpg' width='1000px' height='auto'>"
 collection: portfolio
 ---
 
