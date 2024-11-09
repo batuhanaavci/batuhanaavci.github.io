@@ -1,6 +1,6 @@
 ---
 title: "Modelling and Control of a Rotary Inverted Pendulum"
-excerpt: "Implementation of PID, LQR, and energy-based swing-up LQR on Quanser Qube Servo 2<br/><img src='/images/servo2.jpeg' width='400px' height='auto'>"
+excerpt: "PID, LQR, and energy-based swing-up LQR on Quanser Qube Servo 2. <br/><img src='/images/servo2.jpeg' width='400px' height='auto'>"
 collection: portfolio
 ---
 
