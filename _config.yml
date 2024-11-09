@@ -24,19 +24,19 @@ author:
   avatar           : "batuhan1.jpeg"
   name             : "Batuhan Avci"
   pronouns         : # example: "she/her"  
-  bio              : "this is me"
+  bio              : "I am a second-year MSc student in the Control, Robotics, and Autonomous Systems at Aalto University. I am interested in machine learning, control, and optimization."
   location         : "Helsinki, Finland"
-  employer         : "Aalto University"
+  employer         : 
   uri              : # URL
   email            : "batuhanaavci@aalto.fi" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gsmGH1UAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "batuhanaavci" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
