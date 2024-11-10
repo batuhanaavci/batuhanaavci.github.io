@@ -24,7 +24,7 @@ author:
   avatar           : "batuhan1.jpeg"
   name             : "Batuhan Avci"
   pronouns         : # example: "she/her"  
-  bio              : "I am a second-year MSc student in Control, Robotics, and Autonomous Systems at Aalto University. I am interested in machine learning, control, and optimization."
+  bio              : "I am currently a master’s student in Electrical Engineering at Aalto University, Espoo, Finland. I am specializing in control and robotics, with a minor in machine learning. My research interests lie at the intersection of these fields, particularly in optimal control, uncertainty quantification, reinforcement learning, and probabilistic methods."
   location         : "Helsinki, Finland"
   employer         : 
   uri              : # URL
