@@ -39,3 +39,52 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Publications visual card styles
+.publications-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+.publication-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  overflow: hidden;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+.publication-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+.publication-info {
+  padding: 1rem;
+}
+.publication-title {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+.publication-authors,
+.publication-venue {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.3rem;
+}
+.publication-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #fff;
+  background: #222;
+  padding: 0.4em 1em;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: background 0.2s;
+}
+.publication-link:hover {
+  background: #444;
+}
