@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "batuhan1.jpeg"
   name             : "Batuhan Avci"
-  pronouns         : # example: "she/her"  
-  bio              : "I am currently a second-year master’s student in Electrical Engineering at Aalto University, Espoo, Finland."
-  location         : "Helsinki, Finland"
-  employer         : 
+  pronouns         : # example: "she/her"
+  bio              : "PhD researcher at EPFL working on autonomous drone coordination for traffic monitoring."
+  location         : "Lausanne, Switzerland"
+  employer         :
   uri              : # URL
-  email            : "batuhanaavci@aalto.fi" 
+  email            : "batuhan.avci@epfl.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
