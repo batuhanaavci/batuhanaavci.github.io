@@ -1,0 +1,193 @@
+/* Dark Mode Styles - Default */
+:root {
+  --bg-color: #1a1a1a;
+  --surface-color: #2d2d2d;
+  --text-color: #e4e4e4;
+  --text-secondary: #b0b0b0;
+  --border-color: #404040;
+  --link-color: #8b9cff;
+  --link-hover: #a5b4ff;
+  --gradient-start: #667eea;
+  --gradient-end: #764ba2;
+}
+
+/* Base elements */
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Content areas */
+.page__content,
+.page__inner-wrap,
+.archive,
+.sidebar,
+.masthead,
+.page__footer {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Text colors */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title {
+  color: var(--text-color) !important;
+}
+
+p, li, td, th {
+  color: var(--text-color) !important;
+}
+
+/* Links */
+a {
+  color: var(--link-color) !important;
+}
+
+a:hover {
+  color: var(--link-hover) !important;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: var(--surface-color) !important;
+  border-right: 1px solid var(--border-color) !important;
+}
+
+.author__avatar img {
+  border: 3px solid var(--border-color) !important;
+}
+
+.author__bio {
+  color: var(--text-secondary) !important;
+}
+
+.author__urls li a {
+  color: var(--text-color) !important;
+}
+
+.author__urls li a:hover {
+  color: var(--link-color) !important;
+}
+
+/* Navigation */
+.greedy-nav {
+  background: var(--surface-color) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+
+.greedy-nav a {
+  color: var(--text-color) !important;
+}
+
+.greedy-nav a:hover {
+  color: var(--link-color) !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: var(--link-color) !important;
+}
+
+/* Cards and boxes */
+.archive__item {
+  background-color: var(--surface-color) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+/* Code blocks */
+code,
+pre {
+  background-color: #252525 !important;
+  color: #e4e4e4 !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+/* Tables */
+table {
+  background-color: var(--surface-color) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+th {
+  background-color: #252525 !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+td {
+  border: 1px solid var(--border-color) !important;
+}
+
+/* Footer */
+.page__footer {
+  border-top: 1px solid var(--border-color) !important;
+}
+
+.page__footer-follow {
+  color: var(--text-secondary) !important;
+}
+
+/* Custom publication cards and gradient boxes */
+div[style*="background-color: #f8f9fa"] {
+  background-color: var(--surface-color) !important;
+}
+
+div[style*="background: linear-gradient"] h3,
+div[style*="background: linear-gradient"] p {
+  color: white !important;
+}
+
+/* Preserve white text in gradient boxes */
+div[style*="color: white"] {
+  color: white !important;
+}
+
+/* Form elements */
+input,
+textarea,
+select {
+  background-color: var(--surface-color) !important;
+  color: var(--text-color) !important;
+  border-color: var(--border-color) !important;
+}
+
+/* Notices and alerts */
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  background-color: var(--surface-color) !important;
+  border-color: var(--border-color) !important;
+}
+
+/* Button styles */
+.btn {
+  background-color: var(--surface-color) !important;
+  color: var(--text-color) !important;
+  border-color: var(--border-color) !important;
+}
+
+.btn:hover {
+  background-color: var(--link-color) !important;
+  color: white !important;
+}
+
+/* Pagination */
+.pagination {
+  border-top: 1px solid var(--border-color) !important;
+}
+
+.pagination a {
+  color: var(--link-color) !important;
+}
+
+/* Search */
+.search-content {
+  background-color: var(--surface-color) !important;
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
