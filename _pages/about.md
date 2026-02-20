@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin: -20px -20px 30px -20px;">
-  <img src="/images/research-header.svg" alt="Research Focus" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-</div>
-
 ## About Me
 
-I'm a PhD researcher at **EPFL**'s Urban Transport Systems Laboratory, developing machine learning algorithms to coordinate autonomous drones for large-scale traffic monitoring. My research focuses on scalable learning, adaptive control, and real-time decision-making under uncertainty.
+I'm a PhD researcher at **EPFL**'s Urban Transport Systems Laboratory, developing machine learning algorithms to coordinate autonomous drones for large-scale traffic monitoring. My research focuses on online learning, adaptive control, and real-time decision-making under uncertainty.
 
 I completed my Master's at **Aalto University** in Electrical Engineering (control, robotics, and ML) and my Bachelor's at **Istanbul Technical University** in Control and Automation Engineering.
 
@@ -28,7 +24,9 @@ I completed my Master's at **Aalto University** in Electrical Engineering (contr
 
 <div style="margin: 20px 0;">
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #667eea;">
-    <h4 style="margin-top: 0; color: #333;">Towards Reliable Uncertainty Quantification and High Precision with General Type-2 Fuzzy Systems</h4>
+    <h4 style="margin-top: 0; color: #333;">
+      <a href="/publication/2023-fuzzy-systems" style="color: #333; text-decoration: none;">Towards Reliable Uncertainty Quantification and High Precision with General Type-2 Fuzzy Systems</a>
+    </h4>
     <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
       <strong>B. Avcı</strong>, A. Beke, and T. Kumbasar<br>
       <em>IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023</em><br>
@@ -38,21 +36,17 @@ I completed my Master's at **Aalto University** in Electrical Engineering (contr
   </div>
 
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #764ba2;">
-    <h4 style="margin-top: 0; color: #333;">Recognizing and Tracking Person of Interest: A Real-Time Efficient Deep Learning Based Method for Quadcopters</h4>
+    <h4 style="margin-top: 0; color: #333;">
+      <a href="/publication/2023-drone-tracking" style="color: #333; text-decoration: none;">Recognizing and Tracking Person of Interest: A Real-Time Efficient Deep Learning Based Method for Quadcopters</a>
+    </h4>
     <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
       H. E. Dursun, E. C. Güven, <strong>B. Avcı</strong>, and T. Kumbasar<br>
       <em>10th International Conference on Recent Advances in Space Technologies (RAST), 2023</em><br>
-      📍 Istanbul, Turkey | <a href="https://github.com/batuhanaavci" target="_blank">Code</a>
+      📍 Istanbul, Turkey | <a href="https://github.com/batuhanaavci" target="_blank" style="color: #667eea;">Code</a>
     </p>
     <p style="font-size: 0.9em; color: #555;">Real-time deep learning framework for quadcopters to recognize and track persons of interest autonomously.</p>
   </div>
 </div>
-
----
-
-## 🎯 Research Interests
-
-**Machine Learning & Control** • Multi-agent systems • Probabilistic ML • Gaussian processes • Reinforcement learning • Uncertainty quantification • Autonomous systems
 
 ---
 
