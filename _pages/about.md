@@ -23,28 +23,38 @@ I completed my Master's at **Aalto University** in Electrical Engineering (contr
 ## 📚 Publications
 
 <div style="margin: 20px 0;">
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #667eea;">
-    <h4 style="margin-top: 0; color: #333;">
-      <a href="/publication/2023-fuzzy-systems" style="color: #333; text-decoration: none;">Towards Reliable Uncertainty Quantification and High Precision with General Type-2 Fuzzy Systems</a>
-    </h4>
-    <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
-      <strong>B. Avcı</strong>, A. Beke, and T. Kumbasar<br>
-      <em>IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023</em><br>
-      📍 Songdo Incheon, Korea
-    </p>
-    <p style="font-size: 0.9em; color: #555;">A novel approach to uncertainty quantification using General Type-2 Fuzzy Systems for reliable and precise predictions.</p>
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #667eea; display: flex; gap: 20px; align-items: center;">
+    <div style="flex: 1;">
+      <h4 style="margin-top: 0; color: #333;">
+        <a href="/publication/2023-fuzzy-systems" style="color: #333; text-decoration: none;">Towards Reliable Uncertainty Quantification and High Precision with General Type-2 Fuzzy Systems</a>
+      </h4>
+      <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
+        <strong>B. Avcı</strong>, A. Beke, and T. Kumbasar<br>
+        <em>IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2023</em><br>
+        📍 Songdo Incheon, Korea
+      </p>
+      <p style="font-size: 0.9em; color: #555;">A novel approach to uncertainty quantification using General Type-2 Fuzzy Systems for reliable and precise predictions.</p>
+    </div>
+    <div style="flex-shrink: 0;">
+      <img src="/images/Screenshot 2026-02-20 at 11.49.06.png" alt="Fuzzy Systems" style="width: 200px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    </div>
   </div>
 
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #764ba2;">
-    <h4 style="margin-top: 0; color: #333;">
-      <a href="/publication/2023-drone-tracking" style="color: #333; text-decoration: none;">Recognizing and Tracking Person of Interest: A Real-Time Efficient Deep Learning Based Method for Quadcopters</a>
-    </h4>
-    <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
-      H. E. Dursun, E. C. Güven, <strong>B. Avcı</strong>, and T. Kumbasar<br>
-      <em>10th International Conference on Recent Advances in Space Technologies (RAST), 2023</em><br>
-      📍 Istanbul, Turkey | <a href="https://github.com/batuhanaavci" target="_blank" style="color: #667eea;">Code</a>
-    </p>
-    <p style="font-size: 0.9em; color: #555;">Real-time deep learning framework for quadcopters to recognize and track persons of interest autonomously.</p>
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #764ba2; display: flex; gap: 20px; align-items: center;">
+    <div style="flex: 1;">
+      <h4 style="margin-top: 0; color: #333;">
+        <a href="/publication/2023-drone-tracking" style="color: #333; text-decoration: none;">Recognizing and Tracking Person of Interest: A Real-Time Efficient Deep Learning Based Method for Quadcopters</a>
+      </h4>
+      <p style="color: #666; font-size: 0.95em; margin: 10px 0;">
+        H. E. Dursun, E. C. Güven, <strong>B. Avcı</strong>, and T. Kumbasar<br>
+        <em>10th International Conference on Recent Advances in Space Technologies (RAST), 2023</em><br>
+        📍 Istanbul, Turkey | <a href="https://github.com/batuhanaavci" target="_blank" style="color: #667eea;">Code</a>
+      </p>
+      <p style="font-size: 0.9em; color: #555;">Real-time deep learning framework for quadcopters to recognize and track persons of interest autonomously.</p>
+    </div>
+    <div style="flex-shrink: 0;">
+      <img src="/images/Screenshot 2026-02-20 at 11.47.56.png" alt="Drone Tracking" style="width: 200px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    </div>
   </div>
 </div>
 
